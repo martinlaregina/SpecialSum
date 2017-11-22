@@ -24,14 +24,21 @@ The parameters must be positive numbers
 
 composer install
 
-## Todo
+### Testing
+
+```
+php vendor/phpunit/phpunit/phpunit --debug
+```
+
+## Best Practices
 
 Cláusula de guarda
 
 Self encapsulation
 
-Named Constructors
+Named Constructors ()
 
 Self-Hunt
 
+PSR-1 y PSR-2
 
