@@ -2,7 +2,7 @@
 
 Test algorithm
 
-## Getting Started
+## Getting Startedd
 
 Develop an algorithm that satisfies the following function
 
