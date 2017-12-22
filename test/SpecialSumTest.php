@@ -27,7 +27,7 @@ class SpecialSumTest extends PHPUnit_Framework_TestCase
     {
         $this->SpecialSum = SpecialSum::start();
         if ($x==100 and $y==100){
-            print(PHP_EOL.PHP_EOL.'El número ganador es '.$this->SpecialSum->calculate($x, $y));
+            print(PHP_EOL.PHP_EOL.'Winner '.$this->SpecialSum->calculate($x, $y));
         } else {
             $this->assertEquals($result, $this->SpecialSum->calculate($x, $y));
         }
