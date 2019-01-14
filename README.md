@@ -13,7 +13,7 @@ k = 4, n = 10 -> 2002
 k = 10, n = 10 -> 167960
 k = 20, n = 20 -> 131282408400
 k = 30, n = 30 -> 114449595062769120
-k = 100, n = 100 -> Run the test to see the result
+k = 100, n = 100 -> Run the test to see the result in the screen
 ```
 
 ### Prerequisites
