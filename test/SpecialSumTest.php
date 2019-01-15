@@ -15,7 +15,7 @@ class SpecialSumTest extends PHPUnit_Framework_TestCase
             [10, 10, 167960],
             [20, 20, 131282408400],
             [30, 30, 114449595062769120],
-            [100, 100, 0],
+            [40, 40, 0],
         ];
     }
 
